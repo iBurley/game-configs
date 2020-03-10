@@ -1,2 +1,10 @@
-# game-configs
-Config files for the various games that I play.
+### iBurley's Game Configs
+
+**CPMA Config:**
+`~/.q3a/cpma/q3config.cfg`
+
+**CS 1.6 Config:**
+`/Steam/steamapps/common/Half-Life/cstrike/userconfig.cfg`
+
+**CSGO Config:**
+`/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg`
