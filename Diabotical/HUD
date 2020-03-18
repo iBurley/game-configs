@@ -53,7 +53,8 @@ hud_definition={
       "y": 0,
       "dirhint": "1",
       "hudaspect": "16:9",
-      "fl": "1"
+      "fl": "1",
+      "film": "hML?1?hML?1"
     },
     {
       "t": "chat",
@@ -98,7 +99,7 @@ hud_definition={
     {
       "t": "you_fragged",
       "x": 50,
-      "y": 74,
+      "y": 73,
       "fontSize": "3",
       "font": "veneer-italic",
       "color": "white",
