@@ -98,11 +98,11 @@ hud_definition={
     {
       "t": "you_fragged",
       "x": 50,
-      "y": 76,
+      "y": 74,
       "fontSize": "3",
       "font": "veneer-italic",
       "color": "white",
-      "pivot": "bottom-edge",
+      "pivot": "center",
       "align": "center"
     },
     {
@@ -225,8 +225,8 @@ hud_definition={
     {
       "t": "powerup",
       "gid": -1,
-      "x": 48,
-      "y": 15,
+      "x": 50,
+      "y": 12,
       "fontSize": "1.5",
       "iSize": "7",
       "mC": "white",
@@ -237,7 +237,7 @@ hud_definition={
       "iC": "powerup",
       "iCCustom": "#ffffff",
       "style": "none",
-      "pivot": "bottom-left",
+      "pivot": "center",
       "font": "roboto-bold",
       "iShadow": 1
     },
@@ -364,7 +364,7 @@ hud_definition={
     {
       "gid": 1,
       "x": 50,
-      "y": 0.20000000000000018,
+      "y": 0,
       "width": 40,
       "height": 10,
       "pivot": "top-edge"
