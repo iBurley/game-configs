@@ -9,5 +9,8 @@
 **CSGO Config:**
 `/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg`
 
+**CS2 Config:**
+`/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`
+
 **QuakeWorld Config:**
 `/nquake/ezquake/configs/config.cfg`
